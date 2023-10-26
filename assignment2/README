@@ -1,0 +1,6 @@
+Name: Kevin Beltran (kbeltr03)
+
+Program Instructions: no special instructions
+I made syntax errors removing magic numbers. Removing the fprintf statements
+fixes 4 tests. 
+	
